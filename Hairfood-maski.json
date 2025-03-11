@@ -1,0 +1,372 @@
+{
+  "keys": ["not yet"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Garnier Fructis Hair Food",
+  "rpc": "not yet",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Garnier Fructis Hair Food",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV-mobile.jpg",
+                "element": "img",
+                "alt": "Hair Food",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV.jpg",
+                "element": "img",
+                "alt": "Hair Food",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Odkryj nową, ulepszoną\u00A0formułę!",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-02-mobile.jpg",
+                "element": "img",
+                "alt": "Odkryj nową, ulepszoną formułę!",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-02.jpg",
+                "element": "img",
+                "alt": "Odkryj nową, ulepszoną formułę!",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-03-mobile.jpg",
+                "element": "img",
+                "alt": "3 sposoby użycia",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-03.jpg",
+                "element": "img",
+                "alt": "3 sposoby użycia",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Odkryj nową, ulepszoną\u00A0formułę!",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFour",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Składniki",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div><p>Witaminy C, E i F<sup>1</sup> + <br>ekstrakt z banana</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>7x więcej odżywienia<sup>3</sup>,<br> 97% składników pochodzenia naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów </h6><p>Włosy bardzo suche</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "./MOD-04-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Składniki",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div><p>Witaminy C, E i F<sup>1</sup> z dodatkiem masła kakaowego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>72h bez puszenia<sup>3</sup>,<br>97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy puszące się i niesforne</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "./MOD-04-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Składniki",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div><p>Witaminy C, E i F<sup>1</sup> + <br>ekstrakt z papai</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>98% mniej złamanych włosów<sup>3</sup>, 97% składników pochodzenia <br>naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy zniszczone</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "./MOD-04-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Składniki",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "<div><p>Witaminy C, E i F<sup>1</sup> +<br> ekstrakt z aloesu</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>3x bardziej nawilżone włosy<sup>3</sup>,<br> 97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy normalne i suche</p></div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "./MOD-04-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Zatwierdzone przez włosomaniaczki",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"margin-bottom: 50px\">“Z Garnier i maskami Fructis Hair Food mam zawsze Good Hair Day!”<br>@curlybrownieee</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>1</sup> Pochodna witamin C, E, F.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>2</sup> Nie zawiera składników pochodzenia zwierzęcego lub pochodnych.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>3</sup> Test instrumentalny po zastosowaniu szamponu i maski.</p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
