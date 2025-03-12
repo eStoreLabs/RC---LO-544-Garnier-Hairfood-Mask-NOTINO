@@ -66,10 +66,11 @@
                 "element": "h2",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "20px",
+                  "fontSize": "24px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
+                  "marginBottom": "0px",
                   "text-align": "center"
                 }
               },
@@ -185,10 +186,11 @@
                 "element": "h2",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "20px",
+                  "fontSize": "24px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
+                  "marginBottom": "30px",
                   "text-align": "center"
                 }
               },
@@ -225,7 +227,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div><p>Witaminy C, E i F<sup>1</sup> + <br>ekstrakt z banana</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>7x więcej odżywienia<sup>3</sup>,<br> 97% składników pochodzenia naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów </h6><p>Włosy bardzo suche</p></div>",
+                "value": "<div><p>Witaminy C, E i F<sup style=\"font-size:13px\">1</sup> + <br>ekstrakt z banana</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>7x więcej odżywienia<sup style=\"font-size:13px\">3</sup>,<br> 97% składników pochodzenia naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów </h6><p>Włosy bardzo suche</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -253,7 +255,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div><p>Witaminy C, E i F<sup>1</sup> z dodatkiem masła kakaowego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>72h bez puszenia<sup>3</sup>,<br>97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy puszące się i niesforne</p></div>",
+                "value": "<div><p>Witaminy C, E i F<sup style=\"font-size:13px\">1</sup> z dodatkiem masła kakaowego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>72h bez puszenia<sup style=\"font-size:13px\">3</sup>,<br>97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy puszące się i niesforne</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -281,7 +283,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div><p>Witaminy C, E i F<sup>1</sup> + <br>ekstrakt z papai</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>98% mniej złamanych włosów<sup>3</sup>, 97% składników pochodzenia <br>naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy zniszczone</p></div>",
+                "value": "<div><p>Witaminy C, E i F<sup style=\"font-size:13px\">1</sup> + <br>ekstrakt z papai</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>98% mniej złamanych włosów<sup style=\"font-size:13px\">3</sup>, 97% składników pochodzenia <br>naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy zniszczone</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -309,7 +311,7 @@
               },
               {
                 "name": "columnFourText",
-                "value": "<div><p>Witaminy C, E i F<sup>1</sup> +<br> ekstrakt z aloesu</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>3x bardziej nawilżone włosy<sup>3</sup>,<br> 97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy normalne i suche</p></div>",
+                "value": "<div><p>Witaminy C, E i F<sup style=\"font-size:13px\">1</sup> +<br> ekstrakt z aloesu</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Zalety</h6><p>3x bardziej nawilżone włosy<sup style=\"font-size:13px\">3</sup>,<br> 97% składników pochodzenia<br> naturalnego</p><br><h6 style=\"margin-bottom:0;font-size:1.2rem;font-weight:bold;text-align:center;color:#404040\">Rodzaj włosów</h6><p>Włosy normalne i suche</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -343,7 +345,7 @@
                 "element": "h2",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "20px",
+                  "fontSize": "24px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
@@ -352,7 +354,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"text-align: center\"><p style=\"margin-bottom: 50px\">“Z Garnier i maskami Fructis Hair Food mam zawsze Good Hair Day!”<br>@curlybrownieee</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>1</sup> Pochodna witamin C, E, F.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>2</sup> Nie zawiera składników pochodzenia zwierzęcego lub pochodnych.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>3</sup> Test instrumentalny po zastosowaniu szamponu i maski.</p></div>",
+                "value": "<div style=\"text-align: center\"><p style=\"margin-bottom: 50px\">“Z Garnier i maskami Fructis Hair Food mam zawsze Good Hair Day!”<br>@curlybrownieee</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Pochodna witamin C, E, F.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Nie zawiera składników pochodzenia zwierzęcego lub pochodnych.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Test instrumentalny po zastosowaniu szamponu i maski.</p></div>",
                 "element": "DangerHtml",
                 "properties": {}
               }
