@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Hair Food",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Hair Food",
                 "properties": []
@@ -94,7 +94,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-02-mobile.jpg",
+                "value": "MOD-02-mobile.jpg",
                 "element": "img",
                 "alt": "Odkryj nową, ulepszoną formułę!",
                 "properties": []
@@ -116,7 +116,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Odkryj nową, ulepszoną formułę!",
                 "properties": []
@@ -138,7 +138,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03-mobile.jpg",
+                "value": "MOD-03-mobile.jpg",
                 "element": "img",
                 "alt": "3 sposoby użycia",
                 "properties": []
@@ -160,7 +160,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
                 "alt": "3 sposoby użycia",
                 "properties": []
@@ -236,7 +236,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-04-A.jpg",
+                "value": "MOD-04-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -264,7 +264,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-04-B.jpg",
+                "value": "MOD-04-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -292,7 +292,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-04-C.jpg",
+                "value": "MOD-04-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -320,7 +320,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-04-D.jpg",
+                "value": "MOD-04-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
