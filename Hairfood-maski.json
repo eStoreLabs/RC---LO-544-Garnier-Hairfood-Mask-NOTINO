@@ -1,9 +1,11 @@
 {
-  "keys": ["not yet"],
+  "keys": [
+    "https://www.notino.pl/garnier/fructis-banana-hair-food-maseczka-odzywcza-do-wlosow-suchych/"
+  ],
   "type": 0,
   "language": "pl-PL",
   "campaign": "Garnier Fructis Hair Food",
-  "rpc": "not yet",
+  "rpc": "GAR06845",
   "dateOnSaleFrom": null,
   "owner": "estore",
   "contents": [
